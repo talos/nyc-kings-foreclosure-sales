@@ -2,10 +2,13 @@
 
 This script preserves the PDFs posted to the [Kings County Supreme Court][].
 
-  [Kings County Supreme Court]: http://www.nycourts.gov/courts/2jd/kings/civil/foreclosuresales.shtml 
+  [Kings County Supreme Court]: http://www.nycourts.gov/courts/2jd/kings/civil/foreclosuresales.shtml
 
-Archives going forward are accessible here:
+### Get the data
 
+Data will automatically be posted [here][].
+
+  [here]: http://www.johnkrauss.com/nyc-kings-foreclosure-sales/
 
 ### Installation
 
